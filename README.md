@@ -1,2 +1,2 @@
 # terminalquiz
-a simple terminal quiz app maed using oop in python
+a simple terminal quiz app made to understand oop in python
